@@ -1,0 +1,5 @@
+frameNum="0" vmaf="96.708058"
+frameNum="50" vmaf="97.914403"
+frameNum="100" vmaf="99.065952"
+frameNum="150" vmaf="100.000000"
+frameNum="200" vmaf="92.442162"

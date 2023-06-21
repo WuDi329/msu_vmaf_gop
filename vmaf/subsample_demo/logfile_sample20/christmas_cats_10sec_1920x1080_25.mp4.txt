@@ -1,0 +1,35 @@
+<VMAF version="d48ab28e">
+  <params qualityWidth="1920" qualityHeight="1080" />
+  <fyi fps="4.86" />
+  <frames>
+    <frame frameNum="0" psnr_y="47.285141" integer_adm2="0.997167" integer_adm_scale0="0.986307" integer_adm_scale1="0.995651" integer_adm_scale2="0.998840" integer_adm_scale3="0.999776" integer_motion2="0.000000" integer_motion="0.000000" integer_vif_scale0="0.832873" integer_vif_scale1="0.996300" integer_vif_scale2="0.998488" integer_vif_scale3="0.999168" vmaf="96.638170" />
+    <frame frameNum="20" psnr_y="30.459845" integer_adm2="0.965495" integer_adm_scale0="0.911474" integer_adm_scale1="0.935336" integer_adm_scale2="0.977709" integer_adm_scale3="0.990360" integer_motion2="4.466099" integer_motion="4.661754" integer_vif_scale0="0.224473" integer_vif_scale1="0.786651" integer_vif_scale2="0.900827" integer_vif_scale3="0.946701" vmaf="87.783264" />
+    <frame frameNum="40" psnr_y="29.765355" integer_adm2="0.959228" integer_adm_scale0="0.904684" integer_adm_scale1="0.926139" integer_adm_scale2="0.970318" integer_adm_scale3="0.988084" integer_motion2="5.541601" integer_motion="5.778775" integer_vif_scale0="0.206787" integer_vif_scale1="0.740805" integer_vif_scale2="0.866909" integer_vif_scale3="0.923449" vmaf="84.791319" />
+    <frame frameNum="60" psnr_y="29.357320" integer_adm2="0.957117" integer_adm_scale0="0.896158" integer_adm_scale1="0.926925" integer_adm_scale2="0.965544" integer_adm_scale3="0.987696" integer_motion2="5.203904" integer_motion="5.203904" integer_vif_scale0="0.184629" integer_vif_scale1="0.708234" integer_vif_scale2="0.845060" integer_vif_scale3="0.909204" vmaf="82.422817" />
+    <frame frameNum="80" psnr_y="29.388956" integer_adm2="0.953771" integer_adm_scale0="0.894622" integer_adm_scale1="0.920910" integer_adm_scale2="0.962841" integer_adm_scale3="0.985966" integer_motion2="5.036602" integer_motion="5.036602" integer_vif_scale0="0.176539" integer_vif_scale1="0.696518" integer_vif_scale2="0.839191" integer_vif_scale3="0.904145" vmaf="81.103727" />
+    <frame frameNum="100" psnr_y="30.228548" integer_adm2="0.962545" integer_adm_scale0="0.905238" integer_adm_scale1="0.931265" integer_adm_scale2="0.971502" integer_adm_scale3="0.990571" integer_motion2="5.932537" integer_motion="5.932537" integer_vif_scale0="0.198200" integer_vif_scale1="0.735671" integer_vif_scale2="0.863059" integer_vif_scale3="0.921224" vmaf="85.612225" />
+    <frame frameNum="120" psnr_y="30.800231" integer_adm2="0.963399" integer_adm_scale0="0.909805" integer_adm_scale1="0.933687" integer_adm_scale2="0.970552" integer_adm_scale3="0.989649" integer_motion2="6.384379" integer_motion="7.941165" integer_vif_scale0="0.197726" integer_vif_scale1="0.746595" integer_vif_scale2="0.865282" integer_vif_scale3="0.920177" vmaf="86.197776" />
+    <frame frameNum="140" psnr_y="38.995877" integer_adm2="0.970817" integer_adm_scale0="0.961083" integer_adm_scale1="0.957450" integer_adm_scale2="0.962787" integer_adm_scale3="0.990572" integer_motion2="13.829399" integer_motion="13.829399" integer_vif_scale0="0.086528" integer_vif_scale1="0.986558" integer_vif_scale2="0.994230" integer_vif_scale3="0.996887" vmaf="100.000000" />
+    <frame frameNum="160" psnr_y="25.861927" integer_adm2="0.920522" integer_adm_scale0="0.877092" integer_adm_scale1="0.898344" integer_adm_scale2="0.925642" integer_adm_scale3="0.960991" integer_motion2="19.153296" integer_motion="19.153296" integer_vif_scale0="0.256212" integer_vif_scale1="0.759887" integer_vif_scale2="0.865963" integer_vif_scale3="0.919803" vmaf="88.641672" />
+    <frame frameNum="180" psnr_y="26.583553" integer_adm2="0.925179" integer_adm_scale0="0.885662" integer_adm_scale1="0.896921" integer_adm_scale2="0.930659" integer_adm_scale3="0.960265" integer_motion2="8.153581" integer_motion="8.290036" integer_vif_scale0="0.150854" integer_vif_scale1="0.616324" integer_vif_scale2="0.777003" integer_vif_scale3="0.862284" vmaf="74.173087" />
+    <frame frameNum="200" psnr_y="27.932080" integer_adm2="0.942039" integer_adm_scale0="0.903790" integer_adm_scale1="0.934643" integer_adm_scale2="0.945431" integer_adm_scale3="0.966044" integer_motion2="6.632407" integer_motion="6.680834" integer_vif_scale0="0.163169" integer_vif_scale1="0.667882" integer_vif_scale2="0.822892" integer_vif_scale3="0.896671" vmaf="79.470643" />
+    <frame frameNum="220" psnr_y="28.329378" integer_adm2="0.945458" integer_adm_scale0="0.902714" integer_adm_scale1="0.936168" integer_adm_scale2="0.945877" integer_adm_scale3="0.971242" integer_motion2="8.024084" integer_motion="8.280048" integer_vif_scale0="0.174501" integer_vif_scale1="0.666944" integer_vif_scale2="0.809718" integer_vif_scale3="0.882125" vmaf="79.981854" />
+    <frame frameNum="240" psnr_y="29.293510" integer_adm2="0.946134" integer_adm_scale0="0.908729" integer_adm_scale1="0.928408" integer_adm_scale2="0.946426" integer_adm_scale3="0.973149" integer_motion2="5.091038" integer_motion="9.722632" integer_vif_scale0="0.192382" integer_vif_scale1="0.709227" integer_vif_scale2="0.841654" integer_vif_scale3="0.906328" vmaf="79.711810" />
+  </frames>
+  <pooled_metrics>
+    <metric name="psnr_y" min="25.861927" max="47.285141" mean="31.098594" harmonic_mean="30.365359" />
+    <metric name="integer_adm2" min="0.920522" max="0.997167" mean="0.954529" harmonic_mean="0.954344" />
+    <metric name="integer_adm_scale0" min="0.877092" max="0.986307" mean="0.911335" harmonic_mean="0.910916" />
+    <metric name="integer_adm_scale1" min="0.896921" max="0.995651" mean="0.932450" harmonic_mean="0.932163" />
+    <metric name="integer_adm_scale2" min="0.925642" max="0.998840" mean="0.959548" harmonic_mean="0.959358" />
+    <metric name="integer_adm_scale3" min="0.960265" max="0.999776" mean="0.981105" harmonic_mean="0.981026" />
+    <metric name="integer_motion2" min="0.000000" max="19.153296" mean="7.188379" harmonic_mean="4.049254" />
+    <metric name="integer_motion" min="0.000000" max="19.153296" mean="7.731614" harmonic_mean="4.278146" />
+    <metric name="integer_vif_scale0" min="0.086528" max="0.832873" mean="0.234221" harmonic_mean="0.216130" />
+    <metric name="integer_vif_scale1" min="0.616324" max="0.996300" mean="0.755200" harmonic_mean="0.748858" />
+    <metric name="integer_vif_scale2" min="0.777003" max="0.998488" mean="0.868483" harmonic_mean="0.866495" />
+    <metric name="integer_vif_scale3" min="0.862284" max="0.999168" mean="0.922167" harmonic_mean="0.921429" />
+    <metric name="vmaf" min="74.173087" max="100.000000" mean="85.117566" harmonic_mean="84.601522" />
+  </pooled_metrics>
+  <aggregate_metrics />
+</VMAF>
